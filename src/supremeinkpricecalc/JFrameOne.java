@@ -26,26 +26,26 @@ import org.xml.sax.SAXException;
 
 /**
  *
- * @author Archa
+ * @author Nader Ahmed
  */
 public class JFrameOne extends javax.swing.JFrame {
 
-    static double YellowPrice = 9.35;
-    static double Yellow02Price = 10.30;
-    static double OrangePrice = 13.75;
-    static double WarmRedPrice = 9.35;
-    static double othirtytwoPrice = 10.50;
-    static double RubinePrice = 7.50;
-    static double RhodaminPrice = 16.50;
-    static double PurplePrice = 16.50;
-    static double VioletPrice = 18.75;
-    static double oseventytwoPrice = 16.50;
-    static double ReflexPrice = 7.50;
-    static double Reflex02Price = 14.50;
-    static double BluePrice = 7.50;
-    static double GreenPrice = 10.60;
-    static double BlackPrice = 7.50;
-    static double WhitePrice = 7.50;
+    static double YellowPrice = 9.35; //Yellow
+    static double Yellow02Price = 10.30; //012 Yellow
+    static double OrangePrice = 13.75; //021 Orange
+    static double WarmRedPrice = 9.35; //Warm Red
+    static double othirtytwoPrice = 10.50; //032
+    static double RubinePrice = 7.50; //Rubine Red
+    static double RhodaminPrice = 16.50; //Rhodamin Red
+    static double PurplePrice = 16.50; //Purple
+    static double VioletPrice = 18.75; //Violet
+    static double oseventytwoPrice = 16.50; //072
+    static double ReflexPrice = 7.50; //Reflex
+    static double Reflex02Price = 14.50; //Reflex
+    static double BluePrice = 7.50; //Proc Blue
+    static double GreenPrice = 10.60; //Proc Green
+    static double BlackPrice = 7.50; //Proc Black
+    static double WhitePrice = 7.50; //Trans White
 
     /**
      * Creates new form JFrameOne
@@ -84,6 +84,9 @@ public class JFrameOne extends javax.swing.JFrame {
         jLabel9 = new javax.swing.JLabel();
         jLabel10 = new javax.swing.JLabel();
         jLabel11 = new javax.swing.JLabel();
+        jLabel12 = new javax.swing.JLabel();
+        jLabel13 = new javax.swing.JLabel();
+        jLabel14 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Supreme Ink Price Check");
@@ -191,38 +194,18 @@ public class JFrameOne extends javax.swing.JFrame {
 
         jLabel11.setText("$");
 
+        jLabel12.setText("Supreme Ink Co.");
+
+        jLabel13.setText("Phone: (973)-344-2922 ");
+
+        jLabel14.setText("Fax: (973)-344-3888");
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(jScrollPane1)
             .addComponent(jScrollPane2)
-            .addGroup(layout.createSequentialGroup()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createSequentialGroup()
-                        .addGap(31, 31, 31)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jLabel3)
-                            .addComponent(jLabel1))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(PoundsTextField, javax.swing.GroupLayout.PREFERRED_SIZE, 76, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(PantoneNumTextField, javax.swing.GroupLayout.PREFERRED_SIZE, 76, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                    .addGroup(layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addComponent(jButton1)
-                        .addGap(50, 50, 50)
-                        .addComponent(CalculatePriceButton))
-                    .addGroup(layout.createSequentialGroup()
-                        .addGap(626, 626, 626)
-                        .addComponent(jLabel4))
-                    .addGroup(layout.createSequentialGroup()
-                        .addGap(536, 536, 536)
-                        .addComponent(jLabel2))
-                    .addGroup(layout.createSequentialGroup()
-                        .addGap(653, 653, 653)
-                        .addComponent(jLabel5)))
-                .addContainerGap(561, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addGap(0, 0, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -237,13 +220,48 @@ public class JFrameOne extends javax.swing.JFrame {
                     .addComponent(jLabel7)
                     .addComponent(jLabel9))
                 .addGap(677, 677, 677))
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jButton1)
+                .addGap(50, 50, 50)
+                .addComponent(CalculatePriceButton)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel12, javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jLabel13, javax.swing.GroupLayout.Alignment.TRAILING))
+                .addContainerGap())
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel14)
+                .addContainerGap())
+            .addGroup(layout.createSequentialGroup()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(31, 31, 31)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel3)
+                            .addComponent(jLabel1))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(PoundsTextField, javax.swing.GroupLayout.PREFERRED_SIZE, 76, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(PantoneNumTextField, javax.swing.GroupLayout.PREFERRED_SIZE, 76, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(626, 626, 626)
+                        .addComponent(jLabel4))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(653, 653, 653)
+                        .addComponent(jLabel5))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(536, 536, 536)
+                        .addComponent(jLabel2)))
+                .addContainerGap(561, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGap(43, 43, 43)
-                .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 103, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(18, 18, 18)
+                .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel3)
                     .addComponent(PantoneNumTextField, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
@@ -259,21 +277,27 @@ public class JFrameOne extends javax.swing.JFrame {
                 .addComponent(jLabel5)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 43, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 50, Short.MAX_VALUE)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel8)
-                    .addComponent(jLabel9)
-                    .addComponent(jLabel10))
-                .addGap(18, 18, 18)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel6)
-                    .addComponent(jLabel7)
-                    .addComponent(jLabel11))
-                .addGap(9, 9, 9)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jButton1)
-                    .addComponent(CalculatePriceButton))
-                .addGap(20, 20, 20))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 56, Short.MAX_VALUE)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(jLabel8)
+                            .addComponent(jLabel9)
+                            .addComponent(jLabel10))
+                        .addGap(18, 18, 18)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(jLabel6)
+                            .addComponent(jLabel7)
+                            .addComponent(jLabel11))
+                        .addGap(9, 9, 9)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(jButton1)
+                            .addComponent(CalculatePriceButton)
+                            .addComponent(jLabel13)))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addComponent(jLabel12)
+                        .addGap(22, 22, 22)))
+                .addComponent(jLabel14))
         );
 
         pack();
@@ -313,15 +337,15 @@ public class JFrameOne extends javax.swing.JFrame {
 //          column names
             String[] columnNames = {"Pantone",
                 "Yellow",
-                "L/F02 Yellow",
-                "L/F02 Orange",
+                "012 Yellow",
+                "021 Orange",
                 "Warm Red",
-                "L/F 032",
+                "032",
                 "Rubine",
-                "L/F Rhodamin",
-                "L/F Purple",
-                "L/F Violet",
-                "L/F 072",
+                "Rhodamin",
+                "Purple",
+                "Violet",
+                "072",
                 "Reflex",
                 "L/F Reflex",
                 "Blue",
@@ -405,15 +429,15 @@ public class JFrameOne extends javax.swing.JFrame {
             //column names
             String[] columnNames = {"Pantone",
                 "Yellow",
-                "L/F02 Yellow",
-                "L/F02 Orange",
+                "012 Yellow",
+                "021 Orange",
                 "Warm Red",
-                "L/F 032",
+                "032",
                 "Rubine",
-                "L/F Rhodamin",
-                "L/F Purple",
-                "L/F Violet",
-                "L/F 072",
+                "Rhodamin",
+                "Purple",
+                "Violet",
+                "072",
                 "Reflex",
                 "L/F Reflex",
                 "Blue",
@@ -635,6 +659,9 @@ public class JFrameOne extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
+    private javax.swing.JLabel jLabel12;
+    private javax.swing.JLabel jLabel13;
+    private javax.swing.JLabel jLabel14;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;

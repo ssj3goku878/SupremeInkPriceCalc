@@ -7,7 +7,7 @@ package supremeinkpricecalc;
 
 /**
  *
- * @author Archa
+ * @author Nader Ahmed
  */
 
 //search for specific number and load product materials

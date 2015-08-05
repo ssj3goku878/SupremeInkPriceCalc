@@ -28,7 +28,7 @@ import org.xml.sax.SAXException;
 //get eElement.getAttribute than use formula to find the price
 /**
  *
- * @author Archa
+ * @author Nader Ahmed
  */
 public class SearchXML {
 
