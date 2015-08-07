@@ -40,8 +40,8 @@ public class JFrameOne extends javax.swing.JFrame {
     static double PurplePrice = 16.50; //Purple
     static double VioletPrice = 18.75; //Violet
     static double oseventytwoPrice = 16.50; //072
-    static double ReflexPrice = 7.50; //Reflex
-    static double Reflex02Price = 14.50; //Reflex
+    static double ReflexPrice = 14.50; //Regular Reflex. original 7.50. changed to 14.50
+    static double Reflex02Price = 14.50; //AQ Reflex
     static double BluePrice = 7.50; //Proc Blue
     static double GreenPrice = 10.60; //Proc Green
     static double BlackPrice = 7.50; //Proc Black
@@ -117,7 +117,7 @@ public class JFrameOne extends javax.swing.JFrame {
                 {null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null}
             },
             new String [] {
-                "Pantone", "Yellow", "4F02 Yellow", "4F02 Orange", "Warm Red", "4F 032", "Rubine", "4F Rhodamine", "4F Purple", "4F Violet", "4F 072", "Reflex", "4F Reflex", "Blue", "Green", "Black", "White"
+                "Pantone", "Yellow", "012 Yellow", "021 Orange", "Warm Red", "032", "Rubine", "Rhodamine", "Purple", "Violet", "072", "L/F Reflex", "Reflex", "Blue", "Green", "Black", "White"
             }
         ) {
             Class[] types = new Class [] {
@@ -168,7 +168,7 @@ public class JFrameOne extends javax.swing.JFrame {
                 {null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null}
             },
             new String [] {
-                "Title 1", "Title 2", "Title 3", "Title 4", "Title 5", "Title 6", "Title 7", "Title 8", "Title 9", "Title 10", "Title 11", "Title 12", "Title 13", "Title 14", "Title 15", "Title 16", "Title 17"
+                "Pantone", "Yellow", "012 Yellow", "021 Orange", "Warm Red", "032", "Rubine", "Rhodamin", "Purple", "Violet", "072", "L/F Reflex", "Reflex", "Blue", "Green", "Black", "White"
             }
         ));
         jScrollPane2.setViewportView(JTablePriceData);
@@ -186,7 +186,7 @@ public class JFrameOne extends javax.swing.JFrame {
 
         jLabel7.setText("0000");
 
-        jLabel8.setText("Raw Material Total = ");
+        jLabel8.setText("Price Per Pound = ");
 
         jLabel9.setText("0000");
 
@@ -346,8 +346,8 @@ public class JFrameOne extends javax.swing.JFrame {
                 "Purple",
                 "Violet",
                 "072",
-                "Reflex",
-                "L/F Reflex",
+                "L/F Reflex", // Regular Reflex
+                "Reflex", // AQ Reflex
                 "Blue",
                 "Green",
                 "Black",
@@ -438,8 +438,8 @@ public class JFrameOne extends javax.swing.JFrame {
                 "Purple",
                 "Violet",
                 "072",
-                "Reflex",
-                "L/F Reflex",
+                "L/F Reflex", // Regular Reflex
+                "Reflex", // AQ Reflex switched
                 "Blue",
                 "Green",
                 "Black",
