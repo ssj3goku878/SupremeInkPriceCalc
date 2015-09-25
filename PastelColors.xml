@@ -1,0 +1,161 @@
+<inventory>
+    
+    <product pantone ="9140" yellow = "0"  magenta = "0" violet = "0" blue = "0" green = "0" red = "1.50" black = "0" extender = "70" > </product>
+    <product pantone = "9284" yellow = "0"  magenta = "0" violet = "0" blue = "0" green = "0" red = "50" black = "0" extender = "50" > </product>
+    <product pantone = "9324" yellow = "0"  violet = "0" blue = "0" green = "0" red = "0" magenta = "50" black = "0" extender = "50"> </product>
+    <product pantone = "9344" yellow = "0"  magenta = "0" blue = "0" green = "0" red = "0" violet = "50" black = "0" extender = "50"> </product>
+    <product pantone = "9464" yellow = "0"  magenta = "0" violet = "0" green = "0" red = "0" blue = "50" black = "0" extender = "50"> </product>
+    <product pantone = "9524" yellow = "0"  magenta = "0" violet = "0" blue = "0" red = "0" green = "50" black = "0" extender = "50"> </product>
+    <product pantone = "9084" yellow = "0"  magenta = "0" violet = "0" blue = "0" red = "0" green = "0" black = "50" extender = "50"> </product>
+    <product pantone = "9064" magenta = "0" violet = "0" blue = "0" green = "0" red = "0" black = "0" yellow = "3" extender = "97"> </product>
+    <product pantone = "9285" yellow = "0"  magenta = "0" violet = "0" blue = "0" green = "0" black = "0" red = "2" extender = "98"> </product>
+    <product pantone = "9061" yellow = "0" black ="0" violet = "0" blue = "0" red = "0" green = "0" magenta = "1" extender = "99"> </product>
+    <product pantone = "9345" yellow = "0"  magenta = "0" black ="0" blue = "0" red = "0" green = "0" violet = "2" extender = "98"> </product>
+    <product pantone = "9062" yellow = "0" red = "0" magenta = "0" violet = "0" green = "0" blue = "1" extender = "99"> </product>
+    <product pantone = "9063" yellow = "0"  magenta = "0" violet = "0" blue = "0" red = "0" black = "0" green = "1" extender = "99"> </product>
+    <product pantone = "9081" yellow = "0" red = "0" magenta = "0" violet = "0" blue = "0" green = "0" black = "7.50" extender = "92.50"></product>
+    <product pantone = "9043" yellow = "0" red = "0" magenta = "0" violet = "0" blue = "0" green = "0" black = "2.50" extender = "97.50"></product>
+    <product pantone = "9080" yellow = "0" red = "0" magenta = "0" violet = "0" blue = "0" green = "0" black = "5" extender = "95"> </product>
+    <product pantone = "9100" yellow = "0" red = "0" magenta = "0" violet = "0" green = "0" blue = "0.50" black = "2.00" extender = "97.50"> </product>
+    <product pantone = "9101" yellow = "0" red = "0" magenta = "0" violet = "0" green = "0" blue = "1" black = "4" extender = "95"></product>
+    <product pantone = "9102" yellow = "0" red = "0" magenta = "0" violet = "0" green = "0" blue = "2" black = "8" extender = "90"></product>
+    <product pantone = "9103" yellow = "0" red = "0" magenta = "0" violet = "0" green = "0" blue = "4" black = "16" extender = "90"></product>
+    <product pantone = "9082" yellow = "0" red = "0" magenta = "0" violet = "0" blue = "0" green = "0" black = "10" extender = "90"></product>
+    <product pantone = "9121" red = "0" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "40" extender = "60"></product>
+    <product panton = "9120"  red = "0" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "30" extender = "70"></product>
+    <product pantone = "9141" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "38" red = "2" extender = "60"></product>
+    <product pantone = "9142" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "34.20" red = "1.80" black = "4" extender = "60"></product>
+    <product pantone = "9161" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "30.60" red = "5.40" black = "4" extender = "40"> </product>
+    <product pantone = "9143" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "30.40" red = "1.60" black = "8" extender = "60"></product>
+    <product pantone = "9162" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "27.20" red = "4.80" black = "8" extender = "60"></product>
+    <product pantone = "9160" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "34" red = "6" extender = "60"></product>
+    <product pantone = "9180" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "14" red = "6" extender = "80"> </product>
+    <product pantone = "9180" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "21" red = "9" extender = "70"> </product>
+    <product pantone = "9181" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "21" red = "9" extender = "70"> </product>
+    <product pantone = "9200" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "28" red = "12" extender = "60"> </product>
+    <product pantone = "9201" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "42" red = "18" extender = "40"> </product>
+    <product pantone = "9220" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "18" red = "12" extender = "70"> </product> 
+    <product pantone = "9221" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "21.60" red = "14.40" black = "4" extender = "60"> </product>
+    <product pantone = "9184" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "22" red = "6" black = "2" extender = "70"> </product>
+    <product pantone = "9185" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "20" red = "7" black = "3" extender = "70"> </product>
+    <product pantone = "9202" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "37.80" red = "16.20" black = "6" extender = "40"> </product>
+    <product pantone = "9182" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "18.90" red = "8.10" black = "3" extender = "70"> </product>
+    <product pantone = "9183" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "16.80" red = "7.20" black = "6" extender = "70"> </product>
+    <product pantone = "9203" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "33.60" red = "14.40" black = "12" extender = "40"> </product>
+    <product pantone = "9186" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "26" red = "12" black = "12" extender = "50"> </product>
+    <product pantone = "9224" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "14" red = "6" black = "0.50" extender = "79.50"> </product>
+    <product pantone = "9225" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "19.60" red = "8.40" black = "2" extender = "70"> </product>
+    <product pantone = "9226" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "11.20" red = "4.80" black = "4" extender = "80"> </product>
+    <product pantone = "9222" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "24" red = "16" black = "10" extender = "50"> </product>
+    <product pantone = "9223" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "21" red = "14" black = "15" extender = "50"> </product> 
+    <product pantone = "9242" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "12.80" red = "19.20" black = "8" extender = "80"> </product>
+    <product pantone = "9243" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "11.20" red = "16.80" black = "12" extender = "60"> </product>
+    <product pantone = "9244" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "4" red = "6" extender = "90"></product>
+    <product pantone = "9240" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "8" red = "12" extender = "80"></product> 
+    <product pantone = "9260" magenta = "0" violet = "0" blue = "0" green = "0" black = "0" yellow = "5" red = "15" extender = "80"></product> 
+    <product pantone = "9241" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "10.80" red = "16.20" black = "3" extender = "70"></product>
+    <product pantone = "9261" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "6.75" red = "20.25" black = "3" extender = "70"></product>
+    <product pantone = "9262" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "8" red = "24" black = "8" extender = "60"></product>
+    <product pantone = "9263" magenta = "0" violet = "0" blue = "0" green = "0" yellow = "7" red = "21" black = "12" extender = "60"></product> 
+    <product pantone = "9286" yellow = "0" magenta = "0" violet = "0" blue = "0" green = "0" red = "20" extender = "80"></product> 
+    <product pantone = "9281" yellow = "0" magenta = "0" violet = "0" blue = "0" green = "0" red = "18" black = "2" extender = "80"></product>
+    <product pantone = "9300" yellow = "0" violet = "0" blue = "0" green = "0" red = "10" magenta = "10" extender = "70"></product> 
+    <product pantone = "9282" yellow = "0" magenta = "0" violet = "0" blue = "0" green = "0" red = "24" black = "6" extender = "70"></product>
+    <product pantone = "9301" yellow = "0" violet = "0" blue = "0" green = "0" red = "13.50" magenta = "13.50" black = "3" extender = "70"></product>
+    <product pantone = "9321" yellow = "0" red = "0" violet = "0" blue = "0" green = "0" magenta = "27" black = "3" extender = "70"></product>
+    <product pantone = "9302" yellow = "0" violet = "0" blue = "0" green = "0" red = "16" magenta = "16" black = "8" extender = "60"></product>
+    <product pantone = "9021" yellow = "0" magenta = "0" violet = "0" blue = "0" green = "0" red = "9" black = "1" extender = "90"></product> 
+    <product pantone = "9022" yellow = "0" red = "0" violet = "0" blue = "0" green = "0" magenta = "9" black = "1" extender = "90"></product> 
+    <product pantone = "9023" yellow = "0" red = "0" magenta = "0" blue = "0" green = "0" violet = "9" black = "1" extender = "90"></product> 
+    <product pantone = "9283" yellow = "0" magenta = "0" violet = "0" blue = "0" green = "0" red = "21" black = "9" extender = "70"></product>
+    <product pantone = "9303" yellow = "0" violet = "0" blue = "0" green = "0" red = "14" magenta = "14" black = "12" extender = "60"></product> 
+    <product pantone = "9322" yellow = "0" red = "0" violet = "0" blue = "0" green = "0" magenta = "24" black = "6" extender = "70"></product> 
+    <product pantone = "9323" yellow = "0" red = "0" violet = "0" blue = "0" green = "0" magenta = "28" black = "12" extender = "60"></product>
+    <product pantone = "9360" yellow = "0" red = "0" magenta = "0" green = "0" violet = "17" blue = "3" extender = "80"></product>
+    <product pantone = "9341" yellow = "0" red = "0" magenta = "0" green = "0" violet = "16" black = "4" extender = "80"></product> 
+    <product pantone = "9342" yellow = "0" red = "0" magenta = "0" green = "0" violet = "21" black = "9" extender = "70"></product> 
+    <product pantone = "9361" yellow = "0" red = "0" magenta = "0" green = "0" violet = "23" blue = "4" black = "3" extender = "70"> </product>
+    <product pantone = "9362" yellow = "0" red = "0" magenta = "0" green = "0" violet = "20.40" black = "6" extender = "70"></product>
+    <product pantone = "9364" yellow = "0" red = "0" magenta = "0" green = "0" violet = "23.80" blue = "4.20" black = "12" extender = "60"></product>
+    <product pantone = "9380" yellow = "0" red = "0" magenta = "0" green = "0" black = "0" violet = "12" blue = "8" extender = "80"></product>
+    <product pantone = "9384" yellow = "0" red = "0" magenta = "0" green = "0" black = "0" violet = "11" blue = "9" extender = "80"></product>
+    <product pantone = "9381" yellow = "0" red = "0" magenta = "0" green = "0" violet = "16.20" blue = "10.80" black = "3" extender = "70"></product>
+    <product pantone = "9382" yellow = "0" red = "0" magenta = "0" green = "0" violet = "21.60" blue = "14.40" black = "4" extender = "60"></product>
+    <product pantone = "9383" yellow = "0" red = "0" magenta = "0" green = "0" violet = "19.20" blue = "12.80" black = "8" extender = "60"></product>
+    <product pantone = "9380" yellow = "0" red = "0" magenta = "0" green = "0" black = "0" violet = "12" blue = "8" extender = "80"></product>
+    <product pantone = "9384" yellow = "0" red = "0" magenta = "0" green = "0" black = "0" violet = "11" blue = "9" extender = "80"></product>
+    <product pantone = "9381" yellow = "0" red = "0" magenta = "0" green = "0" violet = "16.20" blue = "10.80" black = "3" extender = "70"></product>
+    <product pantone = "9382" yellow = "0" red = "0" magenta = "0" green = "0" violet = "21.60" blue = "14.40" black = "4" extender = "60"></product>
+    <product pantone = "9383" yellow = "0" red = "0" magenta = "0" green = "0" violet = "19.20" blue = "12.80" black = "8" extender = "60"></product>
+    <product pantone = "9385" yellow = "0" red = "0" magenta = "0" green = "0" violet = "11" blue = "11" black = "8" extender = "70"></product>
+    <product pantone = "9403" yellow = "0" red = "0" magenta = "0" green = "0" violet = "12.80" blue = "19.20" black = "8" extender = "60"></product>
+    <product pantone = "9400" yellow = "0" red = "0" magenta = "0" green = "0" violet = "8" blue = "12" black = "0" extender = "80"> </product>
+    <product pantone = "9401" yellow = "0" red = "0" magenta = "0" green = "0" violet = "12" blue = "18" black = "0" extender = "70"> </product>
+    <product pantone = "9402" yellow = "0" red = "0" magenta = "0" green = "0" violet = "14.40" blue = "21.60" black = "4" extender = "60"> </product>
+    <product pantone = "9420" yellow = "0" red = "0" magenta = "0" green = "0" violet = "6" blue = "14" black = "0" extender = "80"> </product>
+    <product pantone = "9421" yellow = "0" red = "0" magenta = "0" green = "0" violet = "8.10" blue = "18.90" black = "3" extender = "70"> </product>
+    <product pantone = "9422" yellow = "0" red = "0" magenta = "0" green = "0" violet = "7.20" blue = "16.80" black = "6" extender = "70"> </product>
+    <product pantone = "9423" yellow = "0" red = "0" magenta = "0" green = "0" violet = "8.40" blue = "19.60" black = "12" extender = "60"> </product>
+    <product pantone = "9424" yellow = "0" red = "0" magenta = "0" green = "0" violet = "0" blue = "18" black = "2" extender = "80"> </product>
+    <product pantone = "9440" yellow = "0" red = "0" magenta = "0" green = "0" violet = "3" blue = "17" black = "0" extender = "80"> </product>
+    <product pantone = "9441" yellow = "0" red = "0" magenta = "0" green = "0" violet = "4.50" blue = "25.50" black = "0" extender = "70"> </product>
+    <product pantone = "9442" yellow = "0" red = "0" magenta = "0" green = "0" violet = "5.40" blue = "16.80" black = "6" extender = "70"> </product>
+    <product pantone = "9400" yellow = "0" red = "0" magenta = "0" green = "0" violet = "8" blue = "12" black = "0" extender = "80"> </product>
+    <product pantone = "9401" yellow = "0" red = "0" magenta = "0" green = "0" violet = "12" blue = "18" black = "0" extender = "70"> </product>
+    <product pantone = "9402" yellow = "0" red = "0" magenta = "0" green = "0" violet = "14.40" blue = "21.60" black = "4" extender = "60"> </product>
+    <product pantone = "9420" yellow = "0" red = "0" magenta = "0" green = "0" violet = "6" blue = "14" black = "0" extender = "80"> </product>
+    <product pantone = "9421" yellow = "0" red = "0" magenta = "0" green = "0" violet = "8.10" blue = "18.90" black = "3" extender = "70"> </product>
+    <product pantone = "9422" yellow = "0" red = "0" magenta = "0" green = "0" violet = "7.20" blue = "16.80" black = "6" extender = "70"> </product>
+    <product pantone = "9423" yellow = "0" red = "0" magenta = "0" green = "0" violet = "8.40" blue = "19.60" black = "12" extender = "60"> </product>
+    <product pantone = "9424" yellow = "0" red = "0" magenta = "0" green = "0" violet = "0" blue = "18" black = "2" extender = "80"> </product>
+    <product pantone = "9440" yellow = "0" red = "0" magenta = "0" green = "0" violet = "3" blue = "17" black = "0" extender = "80"> </product>
+    <product pantone = "9441" yellow = "0" red = "0" magenta = "0" green = "0" violet = "4.50" blue = "25.50" black = "0" extender = "70"> </product>
+    <product pantone = "9442" yellow = "0" red = "0" magenta = "0" green = "0" violet = "5.40" blue = "30.60" black = "4" extender = "60"> </product>
+    <product pantone = "9461" yellow = "0" red = "0" magenta = "0" green = "0" violet = "0" blue = "27" black = "3" extender = "70"> </product>
+    <product pantone = "9462" yellow = "0" red = "0" magenta = "0" green = "0" violet = "0" blue = "32" black = "8" extender = "60"> </product>
+    <product pantone = "9443" yellow = "0" red = "0" magenta = "0" green = "0" violet = "4.80" blue = "27.20" black = "8" extender = "60"> </product>
+    <product pantone = "9480" yellow = "0" red = "0" magenta = "0" green = "10" violet = "0" blue = "10" black = "0" extender = "80"> </product>
+    <product pantone = "9481" yellow = "0" red = "0" magenta = "0" green = "15" violet = "0" blue = "15" black = "0" extender = "70"> </product>
+    <product pantone = "9500" yellow = "0" red = "0" magenta = "0" green = "30" violet = "0" blue = "10" black = "0" extender = "60"> </product>
+    <product pantone = "9482" yellow = "0" red = "0" magenta = "0" green = "13.50" violet = "0" blue = "13.50" black = "3" extender = "70"> </product>
+    <product pantone = "9501" yellow = "0" red = "0" magenta = "0" green = "33.75" violet = "0" blue = "11.25" black = "5" extender = "50"> </product>
+    <product pantone = "9483" yellow = "0" red = "0" magenta = "0" green = "14" violet = "0" blue = "14" black = "12" extender = "60"> </product>
+    <product pantone = "9463" yellow = "0" red = "0" magenta = "0" green = "0" violet = "0" blue = "28" black = "12" extender = "60"> </product>
+    <product pantone = "9042" yellow = "0" red = "0" magenta = "0" green = "0" violet = "0" blue = "2" black = "3" extender = "95"> </product>
+    <product pantone = "9041" yellow = "0" red = "0" magenta = "0" green = "9" violet = "0" blue = "0" black = "1" extender = "90"> </product>
+    <product pantone = "9040" yellow = "0" red = "0" magenta = "0" green = "0" violet = "0" blue = "9" black = "1" extender = "90"> </product>
+    <product pantone = "9044" yellow = "0" red = "0" magenta = "0" green = "14" violet = "0" blue = "10" black = "6" extender = "70"> </product>
+    <product pantone = "9045" yellow = "0" red = "0" magenta = "0" green = "22" violet = "0" blue = "8" black = "10" extender = "60"> </product>
+    <product pantone = "9503" yellow = "0" red = "0" magenta = "0" green = "26.25" violet = "0" blue = "8.75" black = "15" extender = "50"> </product>
+    <product pantone = "9504" yellow = "0" red = "0" magenta = "0" green = "12" violet = "0" blue = "8" black = "10" extender = "70"> </product>
+    <product pantone = "9525" yellow = "4" red = "0" magenta = "0" green = "6" violet = "0" blue = "0" black = "0" extender = "90"> </product>
+    <product pantone = "9540" yellow = "5" red = "0" magenta = "0" green = "15" violet = "0" blue = "0" black = "0" extender = "80"> </product>
+    <product pantone = "9541" yellow = "6.75" red = "0" magenta = "0" green = "20.25" violet = "0" blue = "3" black = "0" extender = "70"> </product>
+    <product pantone = "9521" yellow = "0" red = "0" magenta = "0" green = "18" violet = "0" blue = "0" black = "2" extender = "80"> </product>
+    <product pantone = "9522" yellow = "0" red = "0" magenta = "0" green = "24" violet = "0" blue = "0" black = "6" extender = "70"> </product>
+    <product pantone = "9523" yellow = "0" red = "0" magenta = "0" green = "28" violet = "0" blue = "0" black = "12" extender = "60"> </product>
+    <product pantone = "9502" yellow = "0" red = "0" magenta = "0" green = "30" violet = "0" blue = "10" black = "10" extender = "50"> </product>
+    <product pantone = "9544" yellow = "6" red = "0" magenta = "0" green = "4" violet = "0" blue = "0" black = "0" extender = "90"> </product>
+    <product pantone = "9560" yellow = "10" red = "0" magenta = "0" green = "10" violet = "0" blue = "0" black = "0" extender = "80"> </product>
+    <product pantone = "9561" yellow = "13.50" red = "0" magenta = "0" green = "13.50" violet = "0" blue = "0" black = "3" extender = "70"> </product>
+    <product pantone = "9562" yellow = "12" red = "0" magenta = "0" green = "12" violet = "0" blue = "0" black = "6" extender = "70"> </product>
+    <product pantone = "9563" yellow = "14" red = "0" magenta = "0" green = "14" violet = "0" blue = "0" black = "12" extender = "60"> </product>
+    <product pantone = "9542" yellow = "5.25" red = "0" magenta = "0" green = "15.75" violet = "0" blue = "0" black = "9" extender = "70"> </product>
+    <product pantone = "9543" yellow = "7" red = "0" magenta = "0" green = "21" violet = "0" blue = "0" black = "12" extender = "60"> </product>
+    <product pantone = "9020" yellow = "39" red = "0" magenta = "0" green = "0" violet = "0" blue = "0" black = "1" extender = "60"> </product>
+    <product pantone = "9600" yellow = "17.55" red = "0" magenta = "0" green = "1.95" violet = "0" blue = "0" black = "0.50" extender = "80"> </product>
+    <product pantone = "9601" yellow = "24.30" red = "0" magenta = "0" green = "2.70" violet = "0" blue = "0" black = "3" extender = "70"> </product>
+    <product pantone = "9122" yellow = "36" red = "0" magenta = "0" green = "0" violet = "0" blue = "0" black = "4" extender = "60"> </product>
+    <product pantone = "9602" yellow = "21.60" red = "0" magenta = "0" green = "2.40" violet = "0" blue = "0" black = "6" extender = "70"> </product>
+    <product pantone = "9603" yellow = "25.20" red = "0" magenta = "0" green = "2.80" violet = "0" blue = "0" black = "12" extender = "60"> </product>
+    <product pantone = "9123" yellow = "64" red = "0" magenta = "0" green = "0" violet = "0" blue = "0" black = "16" extender = "20"> </product>
+    <product pantone = "9580" yellow = "15" red = "0" magenta = "0" green = "5" violet = "0" blue = "0" black = "0" extender = "80"> </product>
+    <product pantone = "9581" yellow = "20.25" red = "0" magenta = "0" green = "6.75" violet = "0" blue = "0" black = "3" extender = "70"> </product>
+    <product pantone = "9584" yellow = "0" red = "0" magenta = "0" green = "0" violet = "0" blue = "0" black = "0" extender = "0"> </product>
+    <product pantone = "9582" yellow = "15.75" red = "0" magenta = "0" green = "5.25" violet = "0" blue = "0" black = "9" extender = "70"> </product>
+    <product pantone = "9583" yellow = "21" red = "0" magenta = "0" green = "7" violet = "0" blue = "0" black = "12" extender = "60"> </product>
+    <product pantone = "9585" yellow = "29" red = "17.50" magenta = "0" green = "23.50" violet = "0" blue = "0" black = "0" extender = "30"> </product>
+    <product pantone = "9163" yellow = "23.80" red = "4.20" magenta = "0" green = "0" violet = "0" blue = "0" black = "12" extender = "60"> </product>
+    <product pantone = "0" yellow = "0" red = "0" magenta = "0" green = "0" violet = "0" blue = "0" black = "0" extender = "0"> </product>
+    
+</inventory>

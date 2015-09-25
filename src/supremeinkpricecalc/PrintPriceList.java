@@ -20,7 +20,7 @@ import org.xml.sax.SAXException;
  * @author Archa
  */
 public class PrintPriceList {
-    static int Pounds = 100; // pounds orderd
+    static int Pounds = 1; // pounds orderd
     static double YellowPrice = 9.35; //Yellow
     static double Yellow02Price = 10.30; //012 Yellow
     static double OrangePrice = 13.75; //021 Orange
@@ -131,7 +131,7 @@ public class PrintPriceList {
                 
                 double FinalTotalDouble = RawMatnumDouble * Pounds;
             //if element is blank, do not print
-//                System.out.println(pantoneElement.getAttribute("pantone")); // pantone number print
+               //System.out.println(pantoneElement.getAttribute("pantone")); // pantone number print
               System.out.println("$" + FinalTotalDouble); // round math.round() math.floor()
                 
 //                System.out.printf( "%-15s %15s %n", pantoneElement.getAttribute("pantone"), (double) FinalTotalDouble);
